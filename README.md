@@ -1,6 +1,5 @@
 ## 👋 Hello! I'm Subhan Khalid
-Full Stack Developer with 2+ years of experience. Familiar with MERN Stack, Next.Js, React.Js and HTML/CSS/JS Development.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web and API development.
-
+Full Stack Developer with 2+ years of hands-on experience. Proficient in Django, FastAPI, and the MERN stack. I thrive on building innovative applications and love taking on new challenges. Comfortable with both web app and mobile app development.
 
 ## 🛠️ Technologies and Tools:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
